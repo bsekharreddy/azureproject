@@ -1,0 +1,624 @@
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\StepUPAPI.dll.config
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\StepUPAPI.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\StepUPAPI.pdb
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\csc.exe
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\csc.exe.config
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\csc.rsp
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\csi.exe
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\csi.exe.config
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\csi.rsp
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.Console.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\vbc.exe
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\vbc.exe.config
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\vbc.rsp
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\EntityFramework.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\StepUpBL.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\StepUpDTO.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\System.Web.Http.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\StepUpDAL.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\StepUpBL.pdb
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\StepUpDTO.pdb
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\EntityFramework.xml
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\System.Web.Http.xml
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\StepUpDAL.pdb
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\bin\StepUpDAL.dll.config
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.csproj.CopyComplete
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.dll
+C:\Users\admin\Desktop\StepUp\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.pdb
+F:\StepUPProject\StepUPAPI\bin\StepUPAPI.dll.config
+F:\StepUPProject\StepUPAPI\bin\StepUPAPI.dll
+F:\StepUPProject\StepUPAPI\bin\StepUPAPI.pdb
+F:\StepUPProject\StepUPAPI\bin\roslyn\csc.exe
+F:\StepUPProject\StepUPAPI\bin\roslyn\csc.exe.config
+F:\StepUPProject\StepUPAPI\bin\roslyn\csc.rsp
+F:\StepUPProject\StepUPAPI\bin\roslyn\csi.exe
+F:\StepUPProject\StepUPAPI\bin\roslyn\csi.exe.config
+F:\StepUPProject\StepUPAPI\bin\roslyn\csi.rsp
+F:\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.Managed.Core.targets
+F:\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.AppContext.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.Console.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.Globalization.Calendars.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.IO.Compression.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.IO.FileSystem.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.Net.Http.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.Net.Sockets.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.ValueTuple.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.Xml.XmlDocument.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.Xml.XPath.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\StepUPProject\StepUPAPI\bin\roslyn\vbc.exe
+F:\StepUPProject\StepUPAPI\bin\roslyn\vbc.exe.config
+F:\StepUPProject\StepUPAPI\bin\roslyn\vbc.rsp
+F:\StepUPProject\StepUPAPI\bin\roslyn\VBCSCompiler.exe
+F:\StepUPProject\StepUPAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\StepUPProject\StepUPAPI\bin\EntityFramework.dll
+F:\StepUPProject\StepUPAPI\bin\EntityFramework.SqlServer.dll
+F:\StepUPProject\StepUPAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\StepUPProject\StepUPAPI\bin\Newtonsoft.Json.dll
+F:\StepUPProject\StepUPAPI\bin\StepUpBL.dll
+F:\StepUPProject\StepUPAPI\bin\StepUpDTO.dll
+F:\StepUPProject\StepUPAPI\bin\System.Net.Http.Formatting.dll
+F:\StepUPProject\StepUPAPI\bin\System.Web.Http.dll
+F:\StepUPProject\StepUPAPI\bin\System.Web.Http.WebHost.dll
+F:\StepUPProject\StepUPAPI\bin\StepUpDAL.dll
+F:\StepUPProject\StepUPAPI\bin\StepUpBL.pdb
+F:\StepUPProject\StepUPAPI\bin\StepUpDTO.pdb
+F:\StepUPProject\StepUPAPI\bin\EntityFramework.xml
+F:\StepUPProject\StepUPAPI\bin\EntityFramework.SqlServer.xml
+F:\StepUPProject\StepUPAPI\bin\Newtonsoft.Json.xml
+F:\StepUPProject\StepUPAPI\bin\System.Net.Http.Formatting.xml
+F:\StepUPProject\StepUPAPI\bin\System.Web.Http.xml
+F:\StepUPProject\StepUPAPI\bin\System.Web.Http.WebHost.xml
+F:\StepUPProject\StepUPAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\StepUPProject\StepUPAPI\bin\StepUpDAL.pdb
+F:\StepUPProject\StepUPAPI\bin\StepUpDAL.dll.config
+F:\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.csproj.AssemblyReference.cache
+F:\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.csproj.CoreCompileInputs.cache
+F:\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.csproj.CopyComplete
+F:\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.dll
+F:\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.pdb
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\StepUPAPI.dll.config
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\StepUPAPI.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\StepUPAPI.pdb
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\csc.exe
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\csc.exe.config
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\csc.rsp
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\csi.exe
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\csi.exe.config
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\csi.rsp
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.AppContext.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Console.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Globalization.Calendars.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.IO.Compression.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Net.Http.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Net.Sockets.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.ValueTuple.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Xml.XPath.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\vbc.exe
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\vbc.exe.config
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\vbc.rsp
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\VBCSCompiler.exe
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\EntityFramework.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\EntityFramework.SqlServer.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\Newtonsoft.Json.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\StepUpBL.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\StepUpDTO.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\System.Net.Http.Formatting.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\System.Web.Http.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\System.Web.Http.WebHost.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\StepUpDAL.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\StepUpBL.pdb
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\StepUpDTO.pdb
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\EntityFramework.xml
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\EntityFramework.SqlServer.xml
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\Newtonsoft.Json.xml
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\System.Net.Http.Formatting.xml
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\System.Web.Http.xml
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\System.Web.Http.WebHost.xml
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\StepUpDAL.pdb
+E:\excel 22 03\StepUPProject\StepUPAPI\bin\StepUpDAL.dll.config
+E:\excel 22 03\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.csproj.AssemblyReference.cache
+E:\excel 22 03\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.csproj.CoreCompileInputs.cache
+E:\excel 22 03\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.csproj.CopyComplete
+E:\excel 22 03\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.dll
+E:\excel 22 03\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.pdb
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\StepUPAPI.dll.config
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\StepUPAPI.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\StepUPAPI.pdb
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\csc.exe
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\csc.exe.config
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\csc.rsp
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\csi.exe
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\csi.exe.config
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\csi.rsp
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.AppContext.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Console.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Net.Http.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\vbc.exe
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\vbc.exe.config
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\vbc.rsp
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\EntityFramework.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\StepUpBL.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\StepUpDTO.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\System.Web.Http.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\StepUpDAL.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\StepUpBL.pdb
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\StepUpDTO.pdb
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\EntityFramework.xml
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\System.Web.Http.xml
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\StepUpDAL.pdb
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\bin\StepUpDAL.dll.config
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.csproj.CopyComplete
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.dll
+C:\Users\hp\Desktop\24 03 2022\excel 22 03\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.pdb
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\StepUPAPI.dll.config
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\StepUPAPI.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\StepUPAPI.pdb
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\csc.exe
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\csc.exe.config
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\csc.rsp
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\csi.exe
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\csi.exe.config
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\csi.rsp
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.AppContext.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.Console.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.Globalization.Calendars.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.IO.Compression.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.Net.Http.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.Net.Sockets.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.ValueTuple.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.Xml.XPath.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\vbc.exe
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\vbc.exe.config
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\vbc.rsp
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\VBCSCompiler.exe
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\EntityFramework.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\EntityFramework.SqlServer.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\Newtonsoft.Json.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\StepUpBL.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\StepUpDTO.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\System.Net.Http.Formatting.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\System.Web.Http.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\System.Web.Http.WebHost.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\StepUpDAL.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\StepUpBL.pdb
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\StepUpDTO.pdb
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\EntityFramework.xml
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\EntityFramework.SqlServer.xml
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\Newtonsoft.Json.xml
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\System.Net.Http.Formatting.xml
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\System.Web.Http.xml
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\System.Web.Http.WebHost.xml
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\StepUpDAL.pdb
+E:\30 03 2022\search\StepUPProject\StepUPAPI\bin\StepUpDAL.dll.config
+E:\30 03 2022\search\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.csproj.AssemblyReference.cache
+E:\30 03 2022\search\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.csproj.CoreCompileInputs.cache
+E:\30 03 2022\search\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.csproj.CopyComplete
+E:\30 03 2022\search\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.dll
+E:\30 03 2022\search\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.pdb
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\StepUPAPI.dll.config
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\StepUPAPI.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\StepUPAPI.pdb
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\csc.exe
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\csc.exe.config
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\csc.rsp
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\csi.exe
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\csi.exe.config
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\csi.rsp
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\Microsoft.Managed.Core.targets
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.AppContext.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Collections.Immutable.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Console.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Globalization.Calendars.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.IO.Compression.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.IO.FileSystem.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Net.Http.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Net.Sockets.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Reflection.Metadata.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.ValueTuple.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Xml.XmlDocument.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Xml.XPath.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\vbc.exe
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\vbc.exe.config
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\vbc.rsp
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\VBCSCompiler.exe
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\roslyn\VBCSCompiler.exe.config
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\EntityFramework.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\EntityFramework.SqlServer.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\Newtonsoft.Json.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\StepUpBL.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\StepUpDTO.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\System.Net.Http.Formatting.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\System.Web.Http.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\System.Web.Http.WebHost.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\StepUpDAL.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\StepUpBL.pdb
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\StepUpDTO.pdb
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\EntityFramework.xml
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\EntityFramework.SqlServer.xml
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\Newtonsoft.Json.xml
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\System.Net.Http.Formatting.xml
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\System.Web.Http.xml
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\System.Web.Http.WebHost.xml
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\StepUpDAL.pdb
+G:\New folder\Shadow_project_Stepup\StepUPAPI\bin\StepUpDAL.dll.config
+G:\New folder\Shadow_project_Stepup\StepUPAPI\obj\Debug\StepUPAPI.csproj.AssemblyReference.cache
+G:\New folder\Shadow_project_Stepup\StepUPAPI\obj\Debug\StepUPAPI.csproj.CoreCompileInputs.cache
+G:\New folder\Shadow_project_Stepup\StepUPAPI\obj\Debug\StepUPAPI.csproj.CopyComplete
+G:\New folder\Shadow_project_Stepup\StepUPAPI\obj\Debug\StepUPAPI.dll
+G:\New folder\Shadow_project_Stepup\StepUPAPI\obj\Debug\StepUPAPI.pdb
+E:\Shadow_project_Stepup\StepUPAPI\bin\StepUPAPI.dll.config
+E:\Shadow_project_Stepup\StepUPAPI\bin\StepUPAPI.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\StepUPAPI.pdb
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\csc.exe
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\csc.exe.config
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\csc.rsp
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\csi.exe
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\csi.exe.config
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\csi.rsp
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.AppContext.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Console.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Globalization.Calendars.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.IO.Compression.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Net.Http.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Net.Sockets.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.ValueTuple.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Xml.XPath.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\vbc.exe
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\vbc.exe.config
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\vbc.rsp
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\VBCSCompiler.exe
+E:\Shadow_project_Stepup\StepUPAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\Shadow_project_Stepup\StepUPAPI\bin\EntityFramework.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\EntityFramework.SqlServer.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\Newtonsoft.Json.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\StepUpBL.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\StepUpDTO.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\System.Net.Http.Formatting.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\System.Web.Http.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\System.Web.Http.WebHost.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\StepUpDAL.dll
+E:\Shadow_project_Stepup\StepUPAPI\bin\StepUpBL.pdb
+E:\Shadow_project_Stepup\StepUPAPI\bin\StepUpDTO.pdb
+E:\Shadow_project_Stepup\StepUPAPI\bin\EntityFramework.xml
+E:\Shadow_project_Stepup\StepUPAPI\bin\EntityFramework.SqlServer.xml
+E:\Shadow_project_Stepup\StepUPAPI\bin\Newtonsoft.Json.xml
+E:\Shadow_project_Stepup\StepUPAPI\bin\System.Net.Http.Formatting.xml
+E:\Shadow_project_Stepup\StepUPAPI\bin\System.Web.Http.xml
+E:\Shadow_project_Stepup\StepUPAPI\bin\System.Web.Http.WebHost.xml
+E:\Shadow_project_Stepup\StepUPAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Shadow_project_Stepup\StepUPAPI\bin\StepUpDAL.pdb
+E:\Shadow_project_Stepup\StepUPAPI\bin\StepUpDAL.dll.config
+E:\Shadow_project_Stepup\StepUPAPI\obj\Debug\StepUPAPI.csproj.AssemblyReference.cache
+E:\Shadow_project_Stepup\StepUPAPI\obj\Debug\StepUPAPI.csproj.CoreCompileInputs.cache
+E:\Shadow_project_Stepup\StepUPAPI\obj\Debug\StepUPAPI.csproj.CopyComplete
+E:\Shadow_project_Stepup\StepUPAPI\obj\Debug\StepUPAPI.dll
+E:\Shadow_project_Stepup\StepUPAPI\obj\Debug\StepUPAPI.pdb
+E:\sample\search\StepUPProject\StepUPAPI\bin\StepUPAPI.dll.config
+E:\sample\search\StepUPProject\StepUPAPI\bin\StepUPAPI.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\StepUPAPI.pdb
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\csc.exe
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\csc.exe.config
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\csc.rsp
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\csi.exe
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\csi.exe.config
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\csi.rsp
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.AppContext.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.Console.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.Globalization.Calendars.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.IO.Compression.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.Net.Http.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.Net.Sockets.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.ValueTuple.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.Xml.XPath.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\vbc.exe
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\vbc.exe.config
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\vbc.rsp
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\VBCSCompiler.exe
+E:\sample\search\StepUPProject\StepUPAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\sample\search\StepUPProject\StepUPAPI\bin\EntityFramework.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\EntityFramework.SqlServer.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\Newtonsoft.Json.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\StepUpBL.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\StepUpDTO.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\System.Net.Http.Formatting.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\System.Web.Http.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\System.Web.Http.WebHost.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\StepUpDAL.dll
+E:\sample\search\StepUPProject\StepUPAPI\bin\StepUpBL.pdb
+E:\sample\search\StepUPProject\StepUPAPI\bin\StepUpDTO.pdb
+E:\sample\search\StepUPProject\StepUPAPI\bin\EntityFramework.xml
+E:\sample\search\StepUPProject\StepUPAPI\bin\EntityFramework.SqlServer.xml
+E:\sample\search\StepUPProject\StepUPAPI\bin\Newtonsoft.Json.xml
+E:\sample\search\StepUPProject\StepUPAPI\bin\System.Net.Http.Formatting.xml
+E:\sample\search\StepUPProject\StepUPAPI\bin\System.Web.Http.xml
+E:\sample\search\StepUPProject\StepUPAPI\bin\System.Web.Http.WebHost.xml
+E:\sample\search\StepUPProject\StepUPAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\sample\search\StepUPProject\StepUPAPI\bin\StepUpDAL.pdb
+E:\sample\search\StepUPProject\StepUPAPI\bin\StepUpDAL.dll.config
+E:\sample\search\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.csproj.AssemblyReference.cache
+E:\sample\search\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.csproj.CoreCompileInputs.cache
+E:\sample\search\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.csproj.CopyComplete
+E:\sample\search\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.dll
+E:\sample\search\StepUPProject\StepUPAPI\obj\Debug\StepUPAPI.pdb
